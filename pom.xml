@@ -17,9 +17,9 @@
 			<version>2.2.0</version>
 			<configuration>
 			    <to>
-				<image>${DockerHubUsername}/hellospring</image>
+				<image>${DOCKER_USERNAME}/hellospring</image>
 				<tags>
-				    <tag>${project.version}</tag>
+				 
 				    <tag>latest</tag>
 				</tags>
 			    </to>

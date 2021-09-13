@@ -19,7 +19,7 @@
 			    <to>
 				<image>${DOCKER_USERNAME}/hellospring</image>
 				<tags>
-				 
+				    <tag>${project.version}</tag>
 				    <tag>latest</tag>
 				</tags>
 			    </to>

@@ -8,6 +8,6 @@ public class HelloSpring {
 	
 	@RequestMapping("/")
 	public String sayHi() {
-		return "Simplest Spring App running with actuator checks at /actuator";
+		return "Simplest Spring App running with actuator checks at :9090/actuator";
 	}
 }

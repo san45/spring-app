@@ -29,7 +29,7 @@
 	    </build>
 	</profile>
 	 
- </profile>
+ </profiles>
   
   <parent>
 		<groupId>org.springframework.boot</groupId>
